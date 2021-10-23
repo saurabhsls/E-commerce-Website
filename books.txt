@@ -1,0 +1,477 @@
+{
+        _id : '5',
+        name: 'A thousand splendid suns',
+        category: 'Novel',
+        image: '/images/dsa.jpeg',
+        price: 500,
+        author: 'Khaled Hosseini',
+        rating: 4,
+        numReviews: 7
+		description:'A Thousand Splendid Suns is a 2007 novel by Afghan'
+				    '-American author Khaled Hosseini.It is his second,'
+				    'following his bestselling 2003 debut, The Kite Runner.'
+				    'Mariam is an illegitimate child,and suffers from  '
+				    'both the stigma surrounding her birth along with'
+				    'the abuse she faces throughout her marriage.'
+		 		    'Laila, born a generation later, is comparatively'
+				    'privileged during her youth until their lives'
+			   	    'intersect and she is also forced to accept a marriage '
+				    'proposal from Rasheed, Mariams husband.Hosseini has'
+				    'remarked that he regards the novel as a mother-daughter'
+				    ' story .It continues some of the themes used in his'
+				    'previous work, such as the familial aspects,but focuses ' 
+			        'primarily on female characters and their roles in society.'
+    },
+	
+{
+        _id : '6',
+        name: 'Perfume',
+        category: 'Novel',
+        image: '/images/dsa.jpeg',
+        price: 225,
+        author: 'Patrick suskind',
+        rating: 4.5,
+        numReviews: 8
+		description:'The novel explores the sense of smell and its relationship'
+				    'with the emotional meanings that scents may have. The '
+				    'story follows Jean-Baptiste Grenouille, an unloved orphan'
+				    'in 18th-century France who is born with an exceptional sense of '
+				    'smell,capable of distinguishing a vast range of scents'
+				    'in the world around him.Grenouille becomes a perfumer but'
+			 	    'later becomes involved in murder when he encounters a'
+				    ' young girl with an unsurpassed wondrous scent.'
+    },
+	
+{
+        _id : '7',
+        name: 'The compound effect',
+        category: 'Novel',
+        image: '/images/dsa.jpeg',
+        price: 400,
+        author: 'Darren Hardy',
+        rating: 3,
+        numReviews: 8
+	description:'Do you want success? More success than you have now?'
+				'And even more success than you ever imagined possible?'
+				' That is what this book is about.Achieving it.'
+		        '  As the central curator of the success media industry '
+				'for over 25 years, author Darren Hardy has heard it all,'
+				' seen it all, and tried most of it. '
+				' This book reveals the core principles that drive success.	'
+				' The Compound Effect contains the essence of what every '
+				'superachiever needs to know, practice, and master to obtain'
+				' extraordinary success.'
+    },
+	
+{
+        _id : '8',
+        name: 'The palace of illusions',
+        category: 'Novel',
+        image: '/images/dsa.jpeg',
+        price: 700,
+        author: 'Chitra Baneerjee Divakaruni',
+        rating: 4,
+        numReviews: 8
+	description:'The Palace of Illusions takes us back to a time that '
+				'is half-history, half-myth, and wholly magical; narrated'
+				' by Panchaali,the wife of the five Pandava brothers,'
+				'we are - finally - given a womans take on the timeless'
+				' tale that is the Mahabharata.Tracing Panchaalis life '
+				' from fiery birth and lonely childhood, where her '
+				'beloved brother is her only true companion; through her'
+				' complicated friendship with the enigmatic Krishna;to'
+				' marriage, motherhood and Panchaalis secret attraction'
+				' to the mysterious man who is her husbands most dangerous '
+				'enemy .The Palace of Illusions is a deeply human novel '
+				'about a woman born into a mans world a world of  '
+				'warriors, gods and the ever manipulating hands of fate.'
+    },
+	
+{
+        _id : '9',
+        name: 'Indras net',
+        category: 'Novel',
+        image: '/images/dsa.jpeg',
+        price: 675,
+        author: 'Rajiv Malhotra',
+        rating: 4,
+        numReviews: 8
+	description:'The book is an appeal against the thesis of neo-Hinduism'
+				' and a defense of Vivekanandas view of Yoga and Vedanta. '
+				'The book argues for a unity, coherence, and continuity of'
+				' the Yogic and Vedantic traditions of Hinduism and Hindu philosophy.'
+				'It makes proposals for defending Hinduism from what the '
+				'author considers to be unjust attacks from scholars,'
+				' misguided public intellectuals, and hostile religious polemicists.'
+    },
+	
+{
+        _id : '10',
+        name: 'Death(an inside story)',
+        category: 'Novel',
+        image: '/images/dsa.jpeg',
+        price: 565,
+        author: 'Sadhguru',
+        rating: 4.5,
+        numReviews: 8
+	description:'Death is a taboo in most societies in the world.'
+				'But what if we have got this completely wrong? What if '
+				'death was not the catastrophe it is made out to be but an'
+				'essential aspect of life,rife with spiritual possibilities '
+				'for transcendence? For the first time, someone is saying '
+				'just that.In this unique treatise-like exposition,'
+				'Sadhguru dwells extensively upon his inner experience as he'
+				'expounds on the more profound aspects of death that are rarely spoken about. '
+				'From a practical standpoint, he elaborates on what preparations '
+				'one can make for ones death, how best we can assist someone who is dying and '
+				'how we can continue to support their journey even after death.'
+				'Whether a believer or not, a devotee or an agnostic, an accomplished '
+				'seeker or a simpleton,this is truly a book for all those who shall die!'
+    },
+
+{
+        _id : '11',
+        name: 'Incarnations',
+        category: 'Novel',
+        image: '/images/dsa.jpeg',
+        price: 457,
+        author: 'Sunil khilnani',
+        rating: 3.5,
+        numReviews: 8
+	description:'One of the worlds most ancient cultures, India can be understood'
+				'and explained in as many ways as humans can possibly devise.'
+ 		        'To make sense of this astonishing turmoil of ideas, Sunil Khilnani '
+				'has created a remarkably simple and attractive solution.'
+				'In this book (which accompanies a major Radio 4 series which'
+				'he is narrating) he takes the lives of 50 Indians, starting  '	
+				'with the Buddha,some very famous, some more obscure, '
+				'from the earliest records to the present day, and in '
+				'a series of short chapters describes what makes them so'
+				'surprising, curious or important.These are not simply'
+				'history lessons, but stories rooted in todays India,'
+				'as Khilnani goes on a quest across contemporary India'
+				'to find the living traces of these extraordinary individuals.'
+    },
+	
+{
+        _id : '12',
+        name: 'Will grayson, will grayson',
+        category: 'Novel',
+        image: '/images/dsa.jpeg',
+        price: 1200,
+        author: 'David Levithan and John Green',
+        rating: 3,
+        numReviews: 8
+	description:'Will Grayson, Will Grayson is a novel by John Green '
+				'and David Levithan, published in April 2010 by Dutton Juvenile. '
+				'The books narrative is divided evenly between two boys named'
+				' Will Grayson, with Green having written all of the chapters'
+				' for one and Levithan having written the chapters for '
+				'the other, presented in an alternating chapter fashion.'
+				' One boy is referred to with a capitalized letter at'
+				' the start of his name,while the other is referred to in'
+				' all lower case letters.The novel debuted on The New ' 
+				'York Times childrens best-seller list after its release'
+				' and remained there for three weeks.It was the first' 
+				' LGBT-themed young adult novel to make it to that list.'
+    },
+	
+{
+        _id : '13',
+        name: 'The insider',
+        category: 'Novel',
+        image: '/images/dsa.jpeg',
+        price: 876,
+        author: 'P.V. Narsimha Rao',
+        rating: 4,
+        numReviews: 8
+	description:'The novel is set in the fictional State of Afrozabad,'
+				' which is modeled on the Indian city of Hyderabad,'  
+				'the capital of the state ofthe then Andhra Pradesh '
+				'and present Telangana and follows the political career of its'
+				' protagonist Anand a naive idealist who goes on to become'
+				' the prime minister of the nation.Much of the story'
+				' corresponds closely to Raos own experiences and '
+				'political career albeit fictionalised.Anand begins'
+				' his political career by rebelling against Afrozabads tyrannical ruler. '
+				'As he rises within the political party of which he '
+				'is a member,Anand is drawn into the tussle between Chief'
+				' Minister Mahendranath,a character modeled on Neelam ' 
+				' Sanjiva Reddy, and his political rival Chaudhury,'
+				'who is based on Kasu Brahmananda Reddy.As Chaudhary' 
+				'  and his partner Shekhar successfully replace'
+				' Mahendranath with Chaudhury as Chief Minister, '
+				'Anand is made a minister under Chaudhary.While serving as'
+				' minister, Anand has a steamy affair with another'
+				' legislator, Aruna whose character is said to have been'
+				' based on the three-time Congress MP Lakshmikanthamma.'
+				'Described as the most convincing of the characters and Anands'
+				' only weakness besides his addiction to Congress politics, '
+				'the two eventually break up. In the meanwhile power in Delhi shifts'
+				' from Nehru to Indira Gandhi and Anand becomes her '
+				'unwavering loyalist. Under her, Chaudhury resigns and Anand becomes'
+				' the first high command nominated Chief Minister of Afrozabad.'
+				' When he tries however to pilot a bill on land reforms through the'
+				' legislature,the inability to do so being the original cause'
+				' for Chaudhurys replacement, he encounters a strong landlord'
+				' lobby and is moved out of the state by Indira Gandhi '
+				'to undertake party work.The novel then breezes through an epilogue'
+				' that covers the political ascendancy of Indira Gandhi'
+				' in the 1970s, the Emergency,the Janata interregnum, Indiras'
+				' second coming and assassination,the rise and death '
+				' of Sanjay Gandhi and the premiership of Rajiv Gandhi.As Anand '
+				'opts to retire from politics,he is however called upon'
+				'to become the Prime Minister and the novel ends.'
+    },
+	
+{
+        _id : '14',
+        name: 'What the dog saw',
+        category: 'Novel',
+        image: '/images/dsa.jpeg',
+        price: 455,
+        author: 'Malcolm Gladwell',
+        rating: 5,
+        numReviews: 8
+	description:'What the Dog Saw is a compilation of 19 articles by Malcolm'
+				' Gladwell that were originally published in '
+				'The New Yorker which are categorized into three parts.'
+				' The first part, Obsessives, Pioneers, and other  '
+				'varieties of Minor Genius,describes people who are very good'
+				' at what they do, but are not necessarily well-known.'
+				' Part two, Theories, Predictions, and Diagnoses,describes'
+				' the problems of prediction. This section covers problems'
+				' such as intelligence failure, and the fall of Enron.'
+				' The third section, Personality,Character, and Intelligence, '
+				' discusses a wide variety of psychological and sociological  '
+				'topics ranging from the difference between early and '
+				'late bloomers to criminal profiling.'
+    },
+	
+{
+        _id : '15',
+        name: 'Zen and the art of motorcycle maintenance',
+        category: 'Novel',
+        image: '/images/dsa.jpeg',
+        price: 599,
+        author: 'Robert M. Pirsig',
+        rating: 3.5,
+        numReviews: 8
+	description:'According to Edward Abbey, the book is a fictionalized'
+				' autobiography of a 17-day journey that Pirsig'
+				' made on a motorcycle from Minnesota to Northern '
+				'California along with his son Chris.'
+				'The story of this journey is recounted in a first-person'
+				' narrative, although the author is not identified. '
+				'Father and son are also accompanied, for the first nine'
+				' days of the trip, by close friends John and Sylvia Sutherland,'
+				'with whom they part ways in Montana. The trip is punctuated'
+				' by numerous philosophical discussions, referred to as'
+				' Chautauquas by the author,on topics including epistemology, '
+				' the history of philosophy, and the philosophy of science.'
+				'Many of these discussions are tied together by the story of the'
+				' narrators own past self, who is referred to in the third person as Phaedrus.'
+				'Phaedrus, a teacher of creative and technical writing at a '
+				'small college, became engrossed in the question of what'
+				' defines good writing,and what in general defines'
+				' good, or Quality, which he understands similar to Tao.'
+				'His philosophical investigations eventually drov '
+				'e him insane, and he was subjected to electroconvulsive'
+				' therapy, which permanently changed his personality.'
+				'Towards the end of the book, Phaedruss strong and unorthodox'
+				' personality, presented as dangerous to the narrator,'
+				' begins to re-emerge and the narrator is reconciled with his past.'
+    },
+	
+{
+        _id : '16',
+        name: 'Kathöpanishad',
+        category: 'Novel',
+        image: '/images/dsa.jpeg',
+        price: 699,
+        author: 'B. Sris Chandra Vasu',
+        rating: 5,
+        numReviews: 8
+	description:'Srisa Chandra Vasu (1861–1918) was an Indian scholar '
+				'in Sanskrit and mathematics.He translated major yoga texts  '
+                'such as the Yogaśāstra, the Gheranda Samhita, and the Siva'
+				' Samhita into English.'
+    },
+	
+{
+        _id : '17',
+        name: 'Chanakyas chant',
+        category: 'Novel',
+        image: '/images/dsa.jpeg',
+        price: 799,
+        author: 'Ashwin Sanghi',
+        rating: 4.5,
+        numReviews: 8
+	description:'The year is 340 BC. A hunted, haunted Brahmin youth '
+				'vows revenge for the gruesome murder of his beloved father. '
+				'Cold, calculating, cruel and armed with a complete absence'
+				' of accepted morals, he becomes the most powerful political' 
+				'strategist in Bharat and succeeds in uniting a ragged country'
+				' against the invasion of the army that demigod, Alexander the Great.' 
+				'Pitting the weak edges of both forces against each other, he pulls'
+				' off a wicked and astonishing victory and succeeds in installing'
+				' Chandragupta on the throne of the mighty Mauryan empire.' 
+				'	History knows him as the brilliant strategist Chanakya. '
+				'Satisfied - and a little bored - by his success as a'
+				' kingmaker, through the simple summoningof his gifted'
+				'  mind, he recedes into the shadows to write his Arthashastra.'
+				'But history, which excults in repeating itself, revives '
+				'Chanakya two and a half millennia later,in the avatar'
+				'  of Gangasagar Mishra,a Brahmin teacher in small-town'
+				' India who becomes puppeteer to a host of ambition '
+				' including a certain slumchild who grows up into a' 
+				'beautiful and powerful woman.Modern india happens'
+				' to be just as riven as ancient Bharat by class hatred, '
+				'corruption and divisive politics - and this landscape '
+				'is Gangasagars feasting ground.Can this wily pandit -'
+				' who preys on greed,venality and sexual deviance ' 
+				' - bring about another miracle of a united India? '
+				'Will Chanakyas Chant work again?'
+    },
+	
+{
+        _id : '18',
+        name: 'The complete works of Arthur conan doyle',
+        category: 'Novel',
+        image: '/images/dsa.jpeg',
+        price: 479,
+        author: 'Arthur Conan Doyle',
+        rating: 5,
+        numReviews: 8
+	description:'The life of Arthur Conan Doyle illustrates the excitement'
+				' and diversity of the Victorian age unlike'
+				' that of any other figure of the period. '
+				'In his autobiography, he wrote:I have had a life which'
+				', for variety and romance, could, I think, hardly be exceeded.'
+				'He was not wrong. But Conan Doyle was also a Victorian with'
+				' a twist, a man of tensions and contradictions. '
+				'He was fascinated by travel, exploration, invention, and'
+				' indeed all things modern and technological; yet at the'
+				' same time very traditional,voicing support for ' 
+				'values such as chivalry, duty, constancy, and honour.'
+				' By the time of his death he was a celebrity, achieving worldwide' 
+				'fame for his creation of the rationalist, scientific '
+				'super-detective Sherlock Holmes; but his later decades were'
+				' taken up with advocacy of the new religion of Spiritualism,' 
+				' in which he became a devoted believer. The new Complete '
+				'Works of Conan Doyle embodies all of the excitement and'
+				'vitality of this extraordinary mans life, ranging from the '
+				'Sherlock Holmes stories to philosophical and spiritual works,'
+				'taking in science fictions and historical comedies, grand '
+				'histories and criminological investigations. '
+    },
+	
+{
+        _id : '19',
+        name: 'Meditations',
+        category: 'Novel',
+        image: '/images/dsa.jpeg',
+        price: 899,
+        author: 'Marcus Aurelius',
+        rating: 4.5,
+        numReviews: 8
+	description:'Meditations is a series of personal writings by Marcus'
+				' Aurelius, Roman Emperor from 161 to 180 AD, '
+				'recording his private notes to himself and ideas on Stoic philosophy.'
+                'Marcus Aurelius wrote the 12 books of the Meditations in Koine'
+				' Greek as a source for his own guidance and self-improvement.'
+				'It is possible that large portions of the work were written at'
+				'Sirmium, where he spent much time planning military campaigns from 170 to 180. '
+				'Some of it was written while he was positioned at Aquincum on'
+				'campaign in Pannonia, because internal notes tell us that the first book was'
+				'written when he was campaigning against the Quadi on the river'
+				' Granova (modern-day Hron) and the second book was written at Carnuntum.'
+                'It is unlikely that Marcus Aurelius ever intended the writings to be'
+				' published and the work has no official title,so "Meditations"  '
+				'is one of several titles commonly assigned to the collection. '
+				'These writings take the form of quotations varying in length '
+				'from one sentence to long paragraphs.'
+    },
+	
+{
+        _id : '20',
+        name: 'Brida',
+        category: 'Novel',
+        image: '/images/dsa.jpeg',
+        price: 679,
+        author: 'Paulo Coelho',
+        rating: 4.5,
+        numReviews: 8
+	description:'This is the story of Brida, a young Irish girl, and her'
+				' quest for knowledge. She has long been interested '
+			    'in various aspects of magic but is searching for something more.'
+				' Her search leads her to people of great wisdom, '
+				'who begin to teach Brida about the spiritual world.' 
+				'She meets a wise man who dwells in a forest, who'
+				' teaches her about overcoming her fears  and trusting '
+			    ' in the goodness of the world; and a woman who teaches her'
+				'how to dance to the music of the world, and how to pray '
+				'to the moon. As Brida seeks her destiny,she struggles  '
+				'to find a balance between her relationships and her  '
+				'desire to become a witch.This enthralling novel incorporates'
+				' themes that fans of Paulo Coelho will recognize and treasure—it is' 
+				'a tale of love, passion, mystery, and spirituality from the master storyteller.'
+    },
+	
+{
+        _id : '21',
+        name: 'The rozabal line',
+        category: 'Novel',
+        image: '/images/dsa.jpeg',
+        price: 379,
+        author: 'Ashwin Sanghi',
+        rating: 4.5,
+        numReviews: 8
+	description:'The Rozabal Line is a thriller fiction novel by Ashwin Sanghi,' 
+		        'written under the pseudonym Shawn Haigins, that deals with the '
+				'story of Jesus having survived the crucifixion and settled down in India.'
+ 		        'The fictional element is in the same vein as Dan Browns The Da Vinci Code. '
+		        'The title refers to the Rozabal shrine in Srinagar in Kashmir, which some '
+			    '(such as Mirza Ghulam Ahmad, the founder of the Ahmadiyya movement,'
+				' in 1899) have asserted is the tomb of Jesus of Nazareth. '
+		        'The historical basis is derived from several other books on the subject including Jesus '
+			    'Lived in India by Holger Kersten and The Unknown Life of Jesus by Nicolas Notovich.'
+    },
+	
+{
+        _id : '22',
+        name: 'The Krishna key',
+        category: 'Novel',
+        image: '/images/dsa.jpeg',
+        price: 600,
+        author: 'Ashwin Sanghi',
+        rating: 4.5,
+        numReviews: 8
+	description:'he Krishna Key centers around Professor Ravi Mohan Saini, '
+				'the protagonist and a historian who has been accused of the ' 
+		        'murder of his childhood friend Anil Varshney,a famous' 
+				' archaeologist who has managed to decipher the script of '
+				'Indus Valley seals.In an attempt to clear his name, Saini '
+				'looks into the past of Indian Mythologys grey ' 
+				'and unexplored areas and uncovers the truth about'
+				' a serial killer,Taarak Vakil who believes' 
+				' himself to be Kalki, the final avatar of Lord Vishnu.'
+				' Saini travels from the ancient ruins of the Lost City of Dvārakā '
+				'to a temple in Vrindavan which was almost destroyed'
+				' by the Mughal Emperor Aurangzeb in an attempt to '
+		        'discover one of Krishnas lost treasures, the Syamantaka'
+				' Gem, also known in alchemy as the philosophers stone,'
+			    '  and stop the killer from murdering his friends'
+ 		        'who are also under the threat.The plot involves four '
+				'different pieces of a seal which must be brought together  '
+		        'to solve the puzzle. Each part of the seal is in the possession'
+				' of different people who are the descendants of the ancient '
+			    'Yadava tribe, namely Saini, Bhoja, Vrishni, Kukura and Chhedi.' 
+		        'The author narrates a detailed version of the post-Mahabharatha '
+				'history through the protagonist, a distinguished professor of history, '
+		        'who himself happens to be a lineal descendant of Lord Krishna'
+				' being from Saini tribe of Punjab.The author also '
+		        ' portrays the biography of Lord Krishna in his own words, '
+				'in parallel to the main story-line.'
+    },
+	
